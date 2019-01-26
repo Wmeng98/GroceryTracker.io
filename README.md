@@ -8,7 +8,7 @@
   - Visualize your historical purchase data to provide financial insight for future grocery runs
 
 - Tools
-  - Client-side: Angular
+  - Ionic Framework (hybrid)
+	- Client-side: Angular
   - Server-side: ExpressJS, MongoDB
 
-- 
