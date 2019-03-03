@@ -8,7 +8,10 @@
   - Visualize your historical purchase data to provide financial insight for future grocery runs
 
 - Tools
-  - Ionic Framework (hybrid)
-	- Client-side: Angular
+  - React-Native Framework
+	- Client-side: React-Nativ
   - Server-side: ExpressJS, MongoDB
+
+- References...
+  - Wern Ancheta: https://blog.pusher.com/getting-started-react-native-part-1/ series
 
